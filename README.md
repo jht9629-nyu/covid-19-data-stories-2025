@@ -57,51 +57,51 @@ Students can choose to participate as creatives, artists, javascript coders, p5j
 
 Students will participate in lectures, research, discussion groups, hands on design and build activities and group or individual projects. Students will be expected to dedicate 3-6 hours of work on weekly assignments in between sessions.
 
-**[Week 1](Week01.md)** Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience.
+**[Week 1](Week/01.md)** Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience.
 
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
-**[Week 2](Week02.md)** Historical and current examples of data visualization for social justice.
+**[Week 2](Week/02.md)** Historical and current examples of data visualization for social justice.
 
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3](Week03.md)** Data literacy and accessible tools for data storytelling.
+**[Week 3](Week/03.md)** Data literacy and accessible tools for data storytelling.
 
   <!-- Our guest lecturer will be Tim Williams from [Tickr, Inc.](ttps://www.tickr.com/) Tickr is a data analytics and data visualization firm that uses technologies including machine learning and AI to deploy anayltics for businesses. -->
 
 <!-- Early Pioneers of Data Visualization. -->
 
-**[Week 4](Week04.md)** The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
+**[Week 4](Week/04.md)** The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
 
 <!-- Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class. -->
 
-**[Week 5](Week05.md)** Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization.
+**[Week 5](Week/05.md)** Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization.
 
 <!-- **Final Project:** Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo. -->
 
-**[Week 6](Week06.md)** Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
+**[Week 6](Week/06.md)** Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
 
 <!-- **Visitor and Guest Speaker:** Tyler Peppel Founder and CEO of Tickr.com -->
 
-**[Week 7](Week07.md)** Vizualization considerations when working with big data, small personal data, data art.
+**[Week 7](Week/07.md)** Vizualization considerations when working with big data, small personal data, data art.
 
-**[Week 8](Week08.md)** Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
+**[Week 8](Week/08.md)** Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
 
-**[Week 9](Week09.md)** The value of stories. Data Visualization: Paragraph or Picture? Researching, documenting and citing data sources.
+**[Week 9](Week/09.md)** The value of stories. Data Visualization: Paragraph or Picture? Researching, documenting and citing data sources.
 
-**[Week 10](Week10.md)** Small Data, Personal Data: Examining the work of Giorgia Lupi. More on documentation and citation.
+**[Week 10](Week/10.md)** Small Data, Personal Data: Examining the work of Giorgia Lupi. More on documentation and citation.
 
-**[Week 11](weeks/11_proposal.md)** Final project proposal
+**[Week 11](Week/s/11_proposal.md)** Final project proposal
 
-**[Week 12](weeks/12_review.md)** Final project review
+**[Week 12](Week/s/12_review.md)** Final project review
 
   <!-- **Final Project:** Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo. -->
 
-**[Week 13](weeks/13_review.md)** Final project review
+**[Week 13](Week/s/13_review.md)** Final project review
 
   <!-- **Final Projects:** Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo. -->
 
-**[Week 14](weeks/14_present.md)** Final project presentation
+**[Week 14](Week/s/14_present.md)** Final project presentation
 
 <!-- Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo. -->
 
