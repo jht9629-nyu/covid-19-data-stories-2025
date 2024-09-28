@@ -1,4 +1,4 @@
-# [covid-19-data-stories-2024](https://github.com/jht9629-nyu/covid-19-data-stories-2024)
+# [covid-19-data-stories-2025](https://github.com/jht9629-nyu/covid-19-data-stories-2025)
 
 # Data Storytelling for Memory Making and Social Resilience
 
