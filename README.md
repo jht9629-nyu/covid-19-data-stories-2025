@@ -1,13 +1,15 @@
+# [covid-19-data-stories-2024](https://github.com/jht9629-nyu/covid-19-data-stories-2024)
+
 # Data Storytelling for Memory Making and Social Resilience
 
 ## Lecture
 
-- Location: 370 Jay Street, Room Room 408 Loc: Brooklyn Campus
+<!-- - Location: 370 Jay Street, Room Room 408 Loc: Brooklyn Campus
 - 10/27/2023 - 12/15/2023 12:10 PM - 2:40 PM
 - ITPG-GT 2379 2
-- CEH-GA 2223
+- CEH-GA 2223 -->
 
-Instructors: John Henry Thompson; Shindy Johnson
+Instructor: Shindy Johnson
 
 ## Course Description
 
@@ -53,38 +55,55 @@ Students can choose to participate as creatives, artists, javascript coders, p5j
 
 ## Course Structure
 
-Students will participate in lectures, research, discussion groups, hands on design and build activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
+Students will participate in lectures, research, discussion groups, hands on design and build activities and group or individual projects. Students will be expected to dedicate 3-6 hours of work on weekly assignments in between sessions.
 
-**[Week 1 (10/27/23)](Week1.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice.
+**[Week 1 ()](Week01.md)** Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience.
 
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
-**[Week 2 (11/03/23)](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
+**[Week 2 ()](Week02.md)** Historical and current examples of data visualization for social justice.
 
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3 (11/10/23)](Week3.md)** Lecture and Guest Speaker: 
-Our guest lecturer will be Tim Williams from [Tickr, Inc.](ttps://www.tickr.com/)  Tickr is a data analytics and data visualization firm that uses technologies including machine learning and AI to deploy anayltics for businesses.
+**[Week 3 ()](Week03.md)** Data literacy and accessible tools for data storytelling.
 
-Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
+  <!-- Our guest lecturer will be Tim Williams from [Tickr, Inc.](ttps://www.tickr.com/) Tickr is a data analytics and data visualization firm that uses technologies including machine learning and AI to deploy anayltics for businesses. -->
 
 <!-- Early Pioneers of Data Visualization. -->
 
-**[Week 4 (11/17/23)](Week4.md)** Lecture: Vizualization considerations when working with big data, small personal data, data art. Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
+**[Week 4 ()](Week04.md)** The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
 
 <!-- Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class. -->
 
-**[Week 5 (12/01/2023)](Week5.md)** Lecture: The value of stories. Data Visualization: Paragraph or Picture? Researching, documenting and citing data sources.
+**[Week 5 ()](Week05.md)** Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization.
 
-**Final Project:** Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo.
+<!-- **Final Project:** Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo. -->
 
-**[Week 6 (12/08/23)](Week6.md)** Lecture: Small Data, Personal Data:  Examining the work of Giorgia Lupi.  More on documentation and citation.
+**[Week 6 ()](Week06.md)** Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
 
-**Final Projects:** Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo.
+<!-- **Visitor and Guest Speaker:** Tyler Peppel Founder and CEO of Tickr.com -->
 
-**Visitor and Guest Speaker:** Tyler Peppel Founder and CEO of Tickr.com
+**[Week 7](Week07.md)** Vizualization considerations when working with big data, small personal data, data art.
 
-**[Week 7](Week7.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo.
+**[Week 8](Week08.md)** Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
+
+**[Week 9](Week09.md)** The value of stories. Data Visualization: Paragraph or Picture? Researching, documenting and citing data sources.
+
+**[Week 10](Week10.md)** Small Data, Personal Data: Examining the work of Giorgia Lupi. More on documentation and citation.
+
+**[Week 11 ](weeks/11_proposal.md)** Final project proposal
+
+**[Week 12 ](weeks/12_review.md)** Final project review
+
+  <!-- **Final Project:** Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo. -->
+
+**[Week 13 ](weeks/13_review.md)** Final project review
+
+  <!-- **Final Projects:** Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo. -->
+
+**[Week 14 ](weeks/14_present.md)** Final project presentation
+
+<!-- Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo. -->
 
 **[Data Viz Student Curated](Data_Vizzies.md)**
 
@@ -112,8 +131,9 @@ Students will be graded on
 
 [NYU Library Data Services](https://library.nyu.edu/departments/data-services/)
 
-###  Coding Resources
-[p5js](https://p5js.org/); [d3js](https://d3js.org/); 
+### Coding Resources
+
+[p5js](https://p5js.org/); [d3js](https://d3js.org/);
 
 [observablehq.com d3 Gallery](https://observablehq.com/@d3/gallery)
 
