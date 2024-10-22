@@ -9,7 +9,7 @@
 - ITPG-GT 2379 2
 - CEH-GA 2223 -->
 
-Instructor: Shindy Johnson
+Instructors: John Henry Thompson; Shindy Johnson
 
 ## Course Description
 
